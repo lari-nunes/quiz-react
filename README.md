@@ -1,4 +1,5 @@
-Desenvolvimento de um quiz (HTML, CSS e JavaScript), feito em ReactJS
+Desenvolvimento de um quiz para saber mais sobre as seguintes tecnologias: HTML, CSS e JavaScript).
+Feito em ReactJS.
 ---------------------------------------------------------------------
 
 https://quiz-react-smoky.vercel.app
